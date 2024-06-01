@@ -48,4 +48,3 @@ ALTER TABLE Customers ADD Email varchar(255);
         CREATE UNIQUE INDEX IX_DEAL_USER ON user_deal (user_id, deal_id)
 
 
-        rjarora785785@gmail.com
